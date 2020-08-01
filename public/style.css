@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+fieldset{
+  background-color: white;
+  border-radius: 4em;
+  border:2px solid red;
+  padding-left: 40px;  
+  margin-bottom: 2px;
+}
+input{
+    display: inline-flex;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+}
+button{
+    padding: 20px 50px 20px 60px ;
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+    text-align: center;
+    margin-left: 83%;
+    font-size: large;
+    border-radius: 4em;
+    
+}
+h2{
+    color: white;
+}
